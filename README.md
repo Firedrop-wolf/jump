@@ -1,9 +1,13 @@
 ＃跳转
 iPhone 6s
 time_coefficient = 0.00190
-press_coefficient = 1.95
-pip3 install --pre facebook-wda 
-pip3 install -r requirements.txt
+press_coefficient = 1.5 
+
+#
+pip3安装--pre facebook-wda
+pip3安装-r requirements.txt
+
+#
 
 import wda，ModuleNotFoundError，No module named'wda'遇到
 这个问题，可以尝试把pip install改成pip3 install 
